@@ -56,7 +56,7 @@ The following analyses were performed:
 10. Best-selling pizzas
 11. Lowest-performing pizzas
 
-## vVisualizations
+## Visualizations
 
 The project includes several visualizations to communicate the findings effectively:
 
